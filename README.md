@@ -15,7 +15,7 @@ https://NaveenLikesCoding.github.io
 
 ## 📚 Technologies Used
 - HTML  
-- CSS  
+- CSS   
 
 ## 📦 Project Structure
 - index.html – Main portfolio page  
