@@ -24,5 +24,6 @@ https://NaveenLikesCoding.github.io/portfolio
 
 ## 👤 Author
 Naveen  
-14-year-old learning web development  
+Beginner Web Developer  
 GitHub: https://github.com/NaveenLikesCoding
+Gmail: NaveenLikesCoding.gmail.com
