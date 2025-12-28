@@ -26,4 +26,4 @@ https://NaveenLikesCoding.github.io/portfolio
 Naveen  
 Beginner Web Developer  
 GitHub: https://github.com/NaveenLikesCoding
-Gmail: https://gmail.com/NaveenLikesCoding
+Gmail: https://NaveenLikesCoding.gmail.com
