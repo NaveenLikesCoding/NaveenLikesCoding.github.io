@@ -4,7 +4,7 @@ This is my personal portfolio website built with **HTML & CSS**.
 I use this site to showcase my projects as I continue learning web development.
 
 ## 🔗 Live Website
-https://NaveenLikesCoding.github.io/portfolio
+https://NaveenLikesCoding.github.io
 
 ## 📁 Features
 - Clean and simple design  
